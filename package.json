@@ -13,6 +13,14 @@
   ],
   "author": "Mila Frerichs",
   "license": "MIT",
+  "homepage": "https://github.com/milafrerichs/karma-chai-changes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milafrerichs/karma-chai-changes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/milafrerichs/karma-chai-changes/issues"
+  },
   "dependencies": {},
   "devDependencies": {
     "karma": "",

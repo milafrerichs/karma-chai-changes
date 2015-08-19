@@ -1,0 +1,24 @@
+{
+  "name": "karma-chai-changes",
+  "version": "0.0.1",
+  "description": "Chai Changes for Karma",
+  "main": "index.js",
+  "scripts": { },
+  "keywords": [
+    "karma",
+    "chai",
+    "chai-changes",
+    "karma-plugin",
+    "karma-framework"
+  ],
+  "author": "Mila Frerichs",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "karma": "",
+    "karma-chai":""
+  },
+  "peerDependencies": {
+    "chai-changes": "*"
+  }
+}
